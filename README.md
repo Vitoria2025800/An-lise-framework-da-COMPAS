@@ -21,6 +21,7 @@ Análise crítica do uso do algoritmo COMPAS no judiciário para prever reincid�
 
 - Estudos, relatórios e documentos sobre o COMPAS
 - Análises de caso e discussões éticas
+[Uploading Experiência pratica 3.pdf…]()
 
 ## Contribuição
 
